@@ -32,7 +32,7 @@
     </div>
     <!-- Right side div -->
     <div id="formget">
-        <a href=https://www.formget.com/app><img src="formget.jpg" alt="Online Form Builder"/></a>
+        <a href=https://www.formget.com/app active="purple"><img src="formget.jpg" alt="Online Form Builder"/></a>
     </div>
 
 </div>
