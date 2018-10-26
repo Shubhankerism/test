@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>insert data in database using PDO(php data object)</title>
+    <title>pdo</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -17,7 +17,7 @@
             <input type="email" name="stu_email" id="email" required="required" placeholder="john123@gmail.com"/><br/><br />
             <label>Student City :</label>
             <input type="text" name="stu_city" id="city" required="required" placeholder="Please Enter Your City"/><br/><br />
-            <input type="text" name="stu_city1" id="city" required="required" placeholder="Please Enter Your City"/><br/><br />
+            <hr>
             <span id='message'></span>
             <script type= 'text/javascript'>
             $('#city').on('keyup', function () {
